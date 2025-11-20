@@ -1,8 +1,8 @@
 # Hi, I'm Satya :wave:
 
-**Strategic Business Data Analyst with Product Management Expertise**
+**Senior Product Manager, Data Science & Spatial Analysis**
 
-Having more than 11 years of working experience in IT, FMCG, and consulting. Skilled in leveraging spatial data analytics to drive strategic decision-making and optimize business operations. Successfully completed 10+ projects, delivering measurable results through data-driven insights. Proven ability to bridge technical and business teams, translating complex data into actionable recommendations. Passionate about using technology to solve real-world problems and create innovative solutions.
+A senior professional with 11+ years of experience across data science, business analysis, and product management. Currently a Senior Product Manager specializing in leading complex SaaS platform revamps and driving data-driven product strategy. Proven ability to deliver significant business results, including a 27.6% sales conversion increase, by bridging the gap between technical teams and strategic business goals. Possesses a rare hybrid skillset, combining advanced data science (R, SQL, modeling) with end-to-end product lifecycle management and agile methodology implementation.
 
 **TECHNICAL SKILL**
 - R Programming – Advance
